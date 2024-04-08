@@ -1,2 +1,2 @@
 # odin-recipes
-We are going to build a basic recipes website. Making the boilerplate, and elements: like <h1> to show the importance of the differents parts of the recipes. <img> to add images to the page. <ul> and <ol> to structure the differents lists on the recipes. And really importante to <a> anchor the pages to work the links.
+We are going to build a basic recipes website. Making the boilerplate, and elements: like h1 to show the importance of the differents parts of the recipes. img to add images to the page. ul and ol to structure the differents lists on the recipes. And really importante to anchor the pages to work the links.
